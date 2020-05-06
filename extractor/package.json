@@ -1,0 +1,13 @@
+{
+  "name": "truckfuckin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "deepmerge": "^4.2.2",
+    "xml-js": "^1.6.11"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
